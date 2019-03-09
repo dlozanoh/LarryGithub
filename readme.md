@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de leyenda.
 
-**David Lozano**, Git instructor & Larry Plotter Fan
+**David Lozano**, Git es un malvado control de versiones
